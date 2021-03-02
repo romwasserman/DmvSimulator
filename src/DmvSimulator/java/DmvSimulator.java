@@ -8,8 +8,8 @@ public class DmvSimulator {
 		int res = 89;
 		//int count = 0;
 		while (res != userNum ) {
-			if (res > 100) {
-				res = 1;
+			if (res > 200) {
+				res = 0;
 				res++;
 			}
 			System.out.println(res);
