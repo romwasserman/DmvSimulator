@@ -16,7 +16,7 @@ public class DmvSimulator {
 			res++;
 		}
 		System.out.println(res);
-		System.out.println("You don't have the required");
+		System.out.println("You don't have the required papers, people this days are dumb sometimes...");
 
 	}
 }
